@@ -1,0 +1,56 @@
+[LOG],11/7/2017,2:47 PM,[CRITICALERROR],[]
+
+[LOG],11/7/2017,2:47 PM,[VER],[::1],
+
+[LOG],11/7/2017,2:48 PM,[CRITICALERROR],[]
+
+[LOG],11/7/2017,2:48 PM,[VER],[::1],
+
+[LOG],11/7/2017,2:52 PM,[CRITICALERROR],[]
+
+[LOG],11/7/2017,2:52 PM,[VER],[::1],
+
+[LOG],11/7/2017,2:53 PM,[CRITICALERROR],[]
+
+[LOG],11/7/2017,2:53 PM,[VER],[::1],
+
+[LOG],11/7/2017,2:56 PM,[CREATED],[::1]
+
+[LOG],11/7/2017,2:56 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:11.0.0:11/7/17 14:47  Model:WSA.2.0.0
+
+[LOG],11/7/2017,2:57 PM,[RUN->],[::1],{"Inputs":[]},{"Outputs":["UDN"],"Providers":["az"]}
+
+[LOG],11/7/2017,2:57 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(No Error)   FIELD GET:( Invalid Provider Code : az ; Invalid Field Request FLD:UDN - Object reference not set to an instance of an object.)   MODEL:(No Error)","STARTYEAR":2015,"ENDYEAR":2050,"SCNNAME":""}
+
+[LOG],11/7/2017,2:58 PM,[RUN->],[::1],{"Inputs":[]},{"Outputs":["UDN"],"Providers":["co"]}
+
+[LOG],11/7/2017,2:58 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(No Error)   FIELD GET:( Invalid Provider Code : co ; Invalid Field Request FLD:UDN - Object reference not set to an instance of an object.)   MODEL:(No Error)","STARTYEAR":2015,"ENDYEAR":2050,"SCNNAME":""}
+
+[LOG],11/7/2017,2:59 PM,[RUN->],[::1],{"Inputs":[]},{"Outputs":["UDN"],"Providers":["st"]}
+
+[LOG],11/7/2017,2:59 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(No Error)   FIELD GET:( Invalid Provider Code : st ; Invalid Field Request FLD:UDN - Object reference not set to an instance of an object.)   MODEL:(No Error)","STARTYEAR":2015,"ENDYEAR":2050,"SCNNAME":""}
+
+[LOG],11/7/2017,3:03 PM,[RUN->],[::1],{"Inputs":[]},{"Outputs":["POP"],"Providers":["COU"]}
+
+[LOG],11/7/2017,3:03 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(No Error)   FIELD GET:(Invalid Field Request FLD:POP - Object reference not set to an instance of an object.)   MODEL:(No Error)","STARTYEAR":2015,"ENDYEAR":2050,"SCNNAME":""}
+
+[LOG],11/7/2017,3:04 PM,[RUN->],[::1],{"Inputs":[]},{"Outputs":["PD_P"],"Providers":["COU"]}
+
+[LOG],11/7/2017,3:04 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2050,"SCNNAME":""}
+
+[LOG],11/7/2017,3:31 PM,[CREATED],[::1]
+
+[LOG],11/7/2017,3:31 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:11.0.0:11/7/17 15:31  Model:WSA.2.0.2
+
+[LOG],11/7/2017,3:33 PM,[RUN->],[::1],{"Inputs":[] },{"Outputs":["AD"],"Providers":["WY"]}
+
+[LOG],11/7/2017,3:33 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(No Error)   FIELD GET:( Invalid Provider Code : WY)   MODEL:(No Error)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":""}
+
+[LOG],11/8/2017,10:26 AM,[CREATED],[::1]
+
+[LOG],11/8/2017,10:26 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:11.0.0:11/8/17 10:25  Model:WSA.2.0.2
+
+[LOG],11/8/2017,10:26 AM,[RUN->],[::1],{"Inputs":[] },{"Outputs":["all"],"Providers":["all"]}
+
+[LOG],11/8/2017,10:26 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":""}
+

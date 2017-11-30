@@ -1,0 +1,224 @@
+[LOG],5/10/2017,9:12 AM,[CREATED],[::1]
+
+[LOG],5/10/2017,9:12 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],5/10/2017,9:12 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/10/2017,9:12 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/10/2017,9:12 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:5/9/17 17:18  Model:WSA.2.0.2
+
+[LOG],5/10/2017,9:13 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],5/10/2017,9:13 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/10/2017,9:13 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/10/2017,9:13 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:5/9/17 17:18  Model:WSA.2.0.2
+
+[LOG],5/10/2017,9:13 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":87},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":87},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/10/2017,9:13 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/10/2017,9:13 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":87},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":87},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/10/2017,9:13 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/10/2017,9:13 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":87},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":87},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":25},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/10/2017,9:13 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/10/2017,9:13 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":87},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":74},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":25},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/10/2017,9:13 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/10/2017,9:13 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":87},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":74},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":80},{"FLD":"RECM","VAL":25},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/10/2017,9:13 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/10/2017,9:14 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":87},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":74},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":80},{"FLD":"RECM","VAL":50},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/10/2017,9:14 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/10/2017,9:14 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":87},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":74},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":80},{"FLD":"RECM","VAL":50},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/10/2017,9:14 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/10/2017,9:14 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":74},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":74},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":80},{"FLD":"RECM","VAL":50},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/10/2017,9:14 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/10/2017,9:14 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":74},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":74},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":50},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/10/2017,9:14 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/10/2017,9:15 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":74},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":60},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":50},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/10/2017,9:15 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/10/2017,9:15 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":74},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":60},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":75},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/10/2017,9:15 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/10/2017,9:15 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":60},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":60},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":75},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/10/2017,9:15 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,9:51 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2050}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,9:51 AM,[CREATED],[::1]
+
+[LOG],5/12/2017,9:51 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Created)","STARTYEAR":2015,"ENDYEAR":2050,"SCNNAME":""}
+
+[LOG],5/12/2017,10:26 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2050}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,10:26 AM,[CREATED],[::1]
+
+[LOG],5/12/2017,10:26 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Created)","STARTYEAR":2015,"ENDYEAR":2050,"SCNNAME":""}
+
+[LOG],5/12/2017,10:28 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2050}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,10:29 AM,[CREATED],[::1]
+
+[LOG],5/12/2017,10:30 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Created)","STARTYEAR":2015,"ENDYEAR":2050,"SCNNAME":""}
+
+[LOG],5/12/2017,10:33 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2050}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,10:33 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2050,"SCNNAME":""}
+
+[LOG],5/12/2017,10:34 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2050}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,10:38 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2050,"SCNNAME":""}
+
+[LOG],5/12/2017,11:54 AM,[CREATED],[::1]
+
+[LOG],5/12/2017,11:54 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],5/12/2017,11:54 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,11:55 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,11:55 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:5/12/17 9:50  Model:WSA.2.0.2
+
+[LOG],5/12/2017,11:55 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],5/12/2017,11:55 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,11:55 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,11:55 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:5/12/17 9:50  Model:WSA.2.0.2
+
+[LOG],5/12/2017,11:55 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,11:55 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,11:55 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":87},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":106},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,11:55 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,11:55 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":87},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":87},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":105},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,11:55 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,11:55 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":87},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":105},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,11:56 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,11:56 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":87},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":87},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":105},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,11:56 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,11:58 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],5/12/2017,11:58 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,11:58 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,11:58 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:5/12/17 9:50  Model:WSA.2.0.2
+
+[LOG],5/12/2017,11:58 AM,[RELOADEXD],[::1],Extended Documentation Reloaded
+
+[LOG],5/12/2017,11:58 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],5/12/2017,11:58 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,11:58 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,11:58 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:5/12/17 9:50  Model:WSA.2.0.2
+
+[LOG],5/12/2017,11:58 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":85},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,11:58 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,11:58 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":85},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":85},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,11:58 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,11:58 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":70},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":85},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,11:59 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,11:59 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":70},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":85},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,11:59 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,11:59 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":70},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":85},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":106},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":25},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,11:59 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,11:59 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":70},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":85},{"FLD":"ICON","VAL":80},{"FLD":"SWM","VAL":105},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":25},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,11:59 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,11:59 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":70},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":85},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":105},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":25},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,11:59 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,12:00 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,12:00 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,12:00 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,12:00 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,12:00 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":85},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,12:00 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,12:00 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":70},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":85},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,12:00 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,12:00 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":70},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":85},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,12:00 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,12:00 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":70},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":70},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":106},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,12:00 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,12:05 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],5/12/2017,12:05 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,12:05 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,12:05 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:5/12/17 9:50  Model:WSA.2.0.2
+
+[LOG],5/12/2017,12:08 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":85},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,12:08 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,12:09 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":70},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,12:09 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,12:11 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,12:11 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],5/12/2017,12:19 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":70},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],5/12/2017,12:19 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+

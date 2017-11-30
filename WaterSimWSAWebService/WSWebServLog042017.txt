@@ -1,0 +1,446 @@
+[LOG],4/3/2017,2:34 PM,[CRITICALERROR],[]
+
+[LOG],4/3/2017,2:34 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],4/3/2017,2:34 PM,[CRITICALERROR],[]
+
+[LOG],4/3/2017,2:34 PM,[VER],[::1],
+
+[LOG],4/3/2017,2:45 PM,[CRITICALERROR],[]
+
+[LOG],4/3/2017,2:45 PM,[VER],[::1],
+
+[LOG],4/3/2017,2:46 PM,[CREATED],[::1]
+
+[LOG],4/3/2017,2:46 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/3/17 14:46  Model:WSA.2.0.2
+
+[LOG],4/3/2017,2:46 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],4/3/2017,2:46 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/3/2017,2:46 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(No Error)   FIELD GET:(No Error)   MODEL:(No ErrorObject reference not set to an instance of an object.)","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/3/2017,2:46 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/3/17 14:46  Model:WSA.2.0.2
+
+[LOG],4/3/2017,3:07 PM,[CREATED],[::1]
+
+[LOG],4/3/2017,3:07 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/3/17 15:07  Model:WSA.2.0.2
+
+[LOG],4/3/2017,3:07 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],4/3/2017,3:08 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/3/2017,3:08 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(No Error)   FIELD GET:(No Error)   MODEL:(No ErrorObject reference not set to an instance of an object.)","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/3/2017,3:08 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/3/17 15:07  Model:WSA.2.0.2
+
+[LOG],4/3/2017,3:09 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"UCON","VAL":null},{"FLD":"AGCON","VAL":null},{"FLD":"PCON","VAL":null},{"FLD":"ICON","VAL":null},{"FLD":"SWM","VAL":null},{"FLD":"GWM","VAL":null},{"FLD":"RECM","VAL":50},{"FLD":"POPGR","VAL":null},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/3/2017,3:09 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(UCON[null] invalid Input string was not in a correct format. ; AGCON[null] invalid Input string was not in a correct format. ; PCON[null] invalid Input string was not in a correct format. ; ICON[null] invalid Input string was not in a correct format. ; SWM[null] invalid Input string was not in a correct format. ; GWM[null] invalid Input string was not in a correct format. ; POPGR[null] invalid Input string was not in a correct format.)   FIELD GET:(No Error)   MODEL:(No ErrorObject reference not set to an instance of an object.)","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/3/2017,3:10 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"UCON","VAL":null},{"FLD":"AGCON","VAL":null},{"FLD":"PCON","VAL":null},{"FLD":"ICON","VAL":null},{"FLD":"SWM","VAL":null},{"FLD":"GWM","VAL":null},{"FLD":"RECM","VAL":null},{"FLD":"POPGR","VAL":null},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/3/2017,3:10 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(UCON[null] invalid Input string was not in a correct format. ; AGCON[null] invalid Input string was not in a correct format. ; PCON[null] invalid Input string was not in a correct format. ; ICON[null] invalid Input string was not in a correct format. ; SWM[null] invalid Input string was not in a correct format. ; GWM[null] invalid Input string was not in a correct format. ; RECM[null] invalid Input string was not in a correct format. ; POPGR[null] invalid Input string was not in a correct format.)   FIELD GET:(No Error)   MODEL:(No ErrorObject reference not set to an instance of an object.)","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/3/2017,3:16 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/3/2017,3:16 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(No Error)   FIELD GET:(No Error)   MODEL:(No ErrorObject reference not set to an instance of an object.)","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],4/3/2017,3:16 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/3/17 15:07  Model:WSA.2.0.2
+
+[LOG],4/3/2017,3:17 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/3/2017,3:17 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(No Error)   FIELD GET:(No Error)   MODEL:(No ErrorObject reference not set to an instance of an object.)","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],4/3/2017,3:38 PM,[CREATED],[::1]
+
+[LOG],4/3/2017,3:38 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/3/17 15:38  Model:WSA.2.0.2
+
+[LOG],4/3/2017,3:39 PM,[INFO],[::1],{"InfoRequest":["UCON"]}
+
+[LOG],4/3/2017,3:39 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/3/2017,3:39 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(No Error)   FIELD GET:(No Error)   MODEL:(No ErrorObject reference not set to an instance of an object.)","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],4/3/2017,3:40 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/3/2017,3:40 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(No Error)   FIELD GET:(No Error)   MODEL:(No ErrorObject reference not set to an instance of an object.)","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],4/3/2017,3:41 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/3/2017,3:44 PM,[CREATED],[::1]
+
+[LOG],4/3/2017,3:46 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Created)   FIELD SET:(No Error)   FIELD GET:(No Error)   MODEL:(No ErrorObject reference not set to an instance of an object.)","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],4/3/2017,4:03 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/3/2017,4:03 PM,[CREATED],[::1]
+
+[LOG],4/3/2017,4:04 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Created)   FIELD SET:(No Error)   FIELD GET:(No Error)   MODEL:(No ErrorObject reference not set to an instance of an object.)","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],4/3/2017,4:06 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/3/2017,4:06 PM,[CREATED],[::1]
+
+[LOG],4/3/2017,4:06 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Created)   FIELD SET:(No Error)   FIELD GET:(No Error)   MODEL:(No ErrorObject reference not set to an instance of an object.)","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],4/3/2017,4:08 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/3/2017,4:08 PM,[CREATED],[::1]
+
+[LOG],4/3/2017,4:08 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Created)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":""}
+
+[LOG],4/3/2017,4:19 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/3/2017,4:19 PM,[CREATED],[::1]
+
+[LOG],4/3/2017,4:19 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Created)   FIELD SET:(No Error)   FIELD GET:(No Error)   MODEL:(No ErrorObject reference not set to an instance of an object.)","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],4/3/2017,4:21 PM,[CREATED],[::1]
+
+[LOG],4/3/2017,4:21 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/3/17 16:19  Model:WSA.2.0.2
+
+[LOG],4/3/2017,4:22 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/3/2017,4:22 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(No Error)   FIELD GET:(No Error)   MODEL:(No ErrorObject reference not set to an instance of an object.)","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],4/3/2017,4:23 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/3/2017,4:23 PM,[CREATED],[::1]
+
+[LOG],4/3/2017,4:23 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Created)   FIELD SET:(No Error)   FIELD GET:(No Error)   MODEL:(No ErrorObject reference not set to an instance of an object.)","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],4/3/2017,4:24 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4},{"FLD":"STOPYR","VAL":2050}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/3/2017,4:24 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2049,"SCNNAME":""}
+
+[LOG],4/3/2017,4:26 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4},{"FLD":"STOPYR","VAL":2051}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/3/2017,4:26 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2050,"SCNNAME":""}
+
+[LOG],4/4/2017,9:43 AM,[CREATED],[::1]
+
+[LOG],4/4/2017,9:43 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/4/17 9:43  Model:WSA.2.0.2
+
+[LOG],4/4/2017,9:44 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4},{"FLD":"STOPYR","VAL":2050}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/4/2017,9:50 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2049,"SCNNAME":""}
+
+[LOG],4/4/2017,9:54 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4},{"FLD":"STOPYR","VAL":2060}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/4/2017,9:54 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2059,"SCNNAME":""}
+
+[LOG],4/4/2017,9:54 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4},{"FLD":"STOPYR","VAL":2060}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/4/2017,9:57 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2059,"SCNNAME":""}
+
+[LOG],4/4/2017,10:06 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4},{"FLD":"STOPYR","VAL":2050}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/4/2017,10:06 AM,[CREATED],[::1]
+
+[LOG],4/4/2017,10:06 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Created)","STARTYEAR":2015,"ENDYEAR":2049,"SCNNAME":""}
+
+[LOG],4/4/2017,10:19 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2050}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/4/2017,10:19 AM,[CREATED],[::1]
+
+[LOG],4/4/2017,10:19 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Created)","STARTYEAR":2015,"ENDYEAR":2049,"SCNNAME":""}
+
+[LOG],4/4/2017,10:33 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2050}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/4/2017,10:33 AM,[CREATED],[::1]
+
+[LOG],4/4/2017,10:36 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Created)","STARTYEAR":2015,"ENDYEAR":2049,"SCNNAME":""}
+
+[LOG],4/4/2017,10:37 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2050}]},{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2050}]}
+
+[LOG],4/4/2017,10:37 AM,[CREATED],[::1]
+
+[LOG],4/4/2017,10:37 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Created)   FIELD SET:(No Error)   FIELD GET:(Output Definition Error: Outputs not definedProviders not defined)   MODEL:(No Error)","STARTYEAR":2015,"ENDYEAR":2050,"SCNNAME":""}
+
+[LOG],4/4/2017,10:38 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2050}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/4/2017,10:39 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2050,"SCNNAME":""}
+
+[LOG],4/4/2017,10:43 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],4/4/2017,10:50 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],4/4/2017,1:34 PM,[CREATED],[::1]
+
+[LOG],4/4/2017,1:34 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/4/17 13:34  Model:WSA.2.0.2
+
+[LOG],4/4/2017,1:37 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/4/17 13:34  Model:WSA.2.0.2
+
+[LOG],4/4/2017,1:38 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2050}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/4/2017,1:38 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2050,"SCNNAME":""}
+
+[LOG],4/4/2017,1:57 PM,[CREATED],[::1]
+
+[LOG],4/4/2017,1:57 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/4/17 13:34  Model:WSA.2.0.2
+
+[LOG],4/4/2017,3:23 PM,[CREATED],[::1]
+
+[LOG],4/4/2017,3:23 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/4/17 13:34  Model:WSA.2.0.2
+
+[LOG],4/4/2017,3:24 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2050}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/4/2017,3:24 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2050,"SCNNAME":""}
+
+[LOG],4/4/2017,3:24 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2064}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/4/2017,3:24 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(No Error)   FIELD GET:(No Error)   MODEL:(No ErrorObject reference not set to an instance of an object.)","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],4/4/2017,3:24 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2063}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/4/2017,3:24 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(No Error)   FIELD GET:(No Error)   MODEL:(No ErrorObject reference not set to an instance of an object.)","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],4/4/2017,3:24 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2050}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/4/2017,3:24 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2050,"SCNNAME":""}
+
+[LOG],4/4/2017,3:24 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2060}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/4/2017,3:24 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2060,"SCNNAME":""}
+
+[LOG],4/4/2017,3:25 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2063}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/4/2017,3:25 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"VALID(Valid Model)  FETCH:(Retreived)   FIELD SET:(No Error)   FIELD GET:(No Error)   MODEL:(No ErrorObject reference not set to an instance of an object.)","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],4/4/2017,3:25 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2061}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/4/2017,3:25 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2061,"SCNNAME":""}
+
+[LOG],4/10/2017,12:31 PM,[CREATED],[::1]
+
+[LOG],4/10/2017,12:31 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/10/17 12:30  Model:WSA.2.0.2
+
+[LOG],4/10/2017,12:34 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2050}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/10/2017,12:35 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2050,"SCNNAME":""}
+
+[LOG],4/10/2017,12:45 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2064}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/10/2017,12:46 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":""}
+
+[LOG],4/10/2017,12:48 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2064}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/10/2017,12:48 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":""}
+
+[LOG],4/10/2017,12:48 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2064}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/10/2017,12:48 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":""}
+
+[LOG],4/10/2017,12:50 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":14},{"FLD":"STOPYR","VAL":2064}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/10/2017,12:52 PM,[CREATED],[::1]
+
+[LOG],4/10/2017,12:53 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Created)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":""}
+
+[LOG],4/10/2017,12:58 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],4/10/2017,12:58 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2060"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2060"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/10/2017,12:58 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2060,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/10/2017,12:58 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/10/17 12:30  Model:WSA.2.0.2
+
+[LOG],4/10/2017,1:07 PM,[CREATED],[::1]
+
+[LOG],4/10/2017,1:07 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],4/10/2017,1:07 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/10/2017,1:07 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/10/2017,1:07 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/10/17 13:06  Model:WSA.2.0.2
+
+[LOG],4/10/2017,1:07 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],4/10/2017,1:07 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/10/2017,1:08 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/10/2017,1:08 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/10/17 13:06  Model:WSA.2.0.2
+
+[LOG],4/10/2017,1:08 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],4/10/2017,1:08 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/10/2017,1:08 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/10/2017,1:08 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/10/17 13:06  Model:WSA.2.0.2
+
+[LOG],4/19/2017,5:31 PM,[CREATED],[::1]
+
+[LOG],4/19/2017,5:31 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/19/17 17:31  Model:WSA.2.0.2
+
+[LOG],4/19/2017,5:32 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],4/19/2017,5:32 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:32 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:32 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/19/17 17:31  Model:WSA.2.0.2
+
+[LOG],4/19/2017,5:33 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],4/19/2017,5:33 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:33 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:33 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/19/17 17:31  Model:WSA.2.0.2
+
+[LOG],4/19/2017,5:34 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:34 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:34 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:34 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:34 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":65},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":50},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:34 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:34 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],4/19/2017,5:34 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:34 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:34 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/19/17 17:31  Model:WSA.2.0.2
+
+[LOG],4/19/2017,5:35 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":80},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:35 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:35 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":80},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":25},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:35 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:35 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":80},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":25},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:35 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:40 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":25},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:40 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:40 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],4/19/2017,5:40 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:40 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:40 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/19/17 17:31  Model:WSA.2.0.2
+
+[LOG],4/19/2017,5:41 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":120},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:41 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:41 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":106},{"FLD":"GWM","VAL":120},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:41 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:54 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":106},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:54 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:54 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":106},{"FLD":"GWM","VAL":80},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":11},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:54 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:54 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],4/19/2017,5:54 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:54 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:54 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/19/17 17:31  Model:WSA.2.0.2
+
+[LOG],4/19/2017,5:54 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":120},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:54 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:55 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":80},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:55 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:55 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":80},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:55 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,5:55 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":80},{"FLD":"GWM","VAL":80},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,5:55 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,6:00 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":80},{"FLD":"GWM","VAL":80},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,6:00 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,6:00 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":140},{"FLD":"GWM","VAL":80},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,6:00 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,6:00 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":80},{"FLD":"GWM","VAL":80},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,6:00 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,6:00 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":80},{"FLD":"GWM","VAL":140},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,6:00 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,6:00 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":80},{"FLD":"GWM","VAL":80},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,6:00 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,6:00 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":80},{"FLD":"GWM","VAL":140},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,6:00 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,6:00 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":80},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,6:00 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,6:00 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,6:00 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,6:00 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":80},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,6:00 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,6:01 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":120},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"DC","VAL":65},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,6:01 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,6:01 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],4/19/2017,6:01 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,6:01 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,6:01 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:4/19/17 17:31  Model:WSA.2.0.2
+
+[LOG],4/19/2017,6:01 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,6:01 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,6:01 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":80},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,6:01 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,6:01 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":80},{"FLD":"GWM","VAL":80},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,6:01 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,6:01 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":80},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,6:01 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],4/19/2017,6:01 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":120},{"FLD":"GWM","VAL":120},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2064"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],4/19/2017,6:01 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2064,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+

@@ -1,0 +1,378 @@
+[LOG],2/1/2017,10:34 AM,[CREATED],[::1]
+
+[LOG],2/1/2017,10:34 AM,[VER],[::1],Version - WebService: WSA_4.0 4/11/16  API:10.0.0:2/1/17 10:34  Model:WSA.2.0.1
+
+[LOG],2/1/2017,11:35 AM,[CREATED],[::1]
+
+[LOG],2/1/2017,11:35 AM,[VER],[::1],Version - WebService: WSA_4.0 4/11/16  API:10.0.0:2/1/17 11:35  Model:WSA.2.0.1
+
+[LOG],2/1/2017,12:00 PM,[VER],[::1],Version - WebService: WSA_4.0 4/11/16  API:10.0.0:2/1/17 11:35  Model:WSA.2.0.1
+
+[LOG],2/1/2017,12:00 PM,[VER],[::1],Version - WebService: WSA_4.0 4/11/16  API:10.0.0:2/1/17 11:35  Model:WSA.2.0.1
+
+[LOG],2/1/2017,12:19 PM,[CREATED],[::1]
+
+[LOG],2/1/2017,12:19 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/1/17 12:17  Model:WSA.2.0.1
+
+[LOG],2/1/2017,4:07 PM,[CREATED],[::1]
+
+[LOG],2/1/2017,4:07 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/1/17 15:58  Model:WSA.2.0.1
+
+[LOG],2/2/2017,11:03 AM,[CRITICALERROR],[]
+
+[LOG],2/2/2017,11:03 AM,[VER],[::1],
+
+[LOG],2/2/2017,11:05 AM,[CRITICALERROR],[]
+
+[LOG],2/2/2017,11:05 AM,[VER],[::1],
+
+[LOG],2/2/2017,11:38 AM,[CREATED],[::1]
+
+[LOG],2/2/2017,11:38 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 11:38  Model:WSA.2.0.2
+
+[LOG],2/2/2017,11:46 AM,[CREATED],[::1]
+
+[LOG],2/2/2017,11:46 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 11:38  Model:WSA.2.0.2
+
+[LOG],2/2/2017,11:55 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/2/2017,11:55 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,11:55 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"WWSURF","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/2/2017,11:55 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 11:38  Model:WSA.2.0.2
+
+[LOG],2/2/2017,11:56 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/2/2017,11:56 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,11:56 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"WWSURF","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/2/2017,11:56 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 11:38  Model:WSA.2.0.2
+
+[LOG],2/2/2017,1:36 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/2/2017,1:36 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,1:36 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"WWSURF","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/2/2017,1:36 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 11:38  Model:WSA.2.0.2
+
+[LOG],2/2/2017,1:44 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/2/2017,1:45 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,1:45 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"WWSURF","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],2/2/2017,1:48 PM,[INFO],[::1],{"InfoRequest":["WWSURF"]}
+
+[LOG],2/2/2017,1:52 PM,[INFO],[::1],{"InfoRequest":["WWADJ"]}
+
+[LOG],2/2/2017,2:53 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,2:57 PM,[CREATED],[::1]
+
+[LOG],2/2/2017,3:22 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"WWSURF","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],2/2/2017,3:23 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,3:23 PM,[CREATED],[::1]
+
+[LOG],2/2/2017,3:24 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"WWSURF","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],2/2/2017,3:24 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,3:25 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"WWSURF","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],2/2/2017,3:25 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,3:27 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"WWSURF","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],2/2/2017,3:27 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,3:30 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"WWSURF","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],2/2/2017,3:30 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,3:31 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"WWSURF","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],2/2/2017,3:31 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,3:32 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"WWSURF","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],2/2/2017,3:33 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,3:38 PM,[CREATED],[::1]
+
+[LOG],2/2/2017,3:38 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"ERROR","MESSAGE":"WWSURF","STARTYEAR":0,"ENDYEAR":0,"SCNNAME":""}
+
+[LOG],2/2/2017,3:41 PM,[CREATED],[::1]
+
+[LOG],2/2/2017,3:41 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/2/2017,3:41 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/2/2017,3:41 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,3:42 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/2/2017,3:42 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/2/2017,3:46 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"UCON","VAL":70},{"FLD":"AGCON","VAL":85},{"FLD":"PCON","VAL":70},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,3:48 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/2/2017,3:49 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/2/2017,3:49 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,3:50 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/2/2017,3:50 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/2/2017,3:52 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/2/2017,3:52 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,3:53 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/2/2017,3:53 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/2/2017,3:57 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/2/2017,3:57 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,3:57 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/2/2017,3:57 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/2/2017,4:02 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["UEF"],"Providers":["st"]}
+
+[LOG],2/2/2017,4:02 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":""}
+
+[LOG],2/2/2017,4:04 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["UEF","POP","UD"],"Providers":["st"]}
+
+[LOG],2/2/2017,4:04 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":""}
+
+[LOG],2/2/2017,4:09 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4}]},{"Outputs":["UEF","POP","UD","UGPCD"],"Providers":["st"]}
+
+[LOG],2/2/2017,4:10 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":""}
+
+[LOG],2/2/2017,4:14 PM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/2/2017,4:14 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":4},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/2/2017,4:14 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/2/2017,4:14 PM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/2/2017,4:22 PM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0}]},{"Outputs":["UEF","POP","UD","UGPCD"],"Providers":["st"]}
+
+[LOG],2/2/2017,4:22 PM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":""}
+
+[LOG],2/3/2017,9:15 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0}]},{"Outputs":["UEF"],"Providers":["st"]}
+
+[LOG],2/3/2017,9:15 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":""}
+
+[LOG],2/3/2017,9:16 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,9:17 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,9:17 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,9:17 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,9:22 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0}]},{"Outputs":["PDN"],"Providers":["st"]}
+
+[LOG],2/3/2017,9:22 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":""}
+
+[LOG],2/3/2017,9:24 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"PCON","VAL":60}]},{"Outputs":["PDN","PCON"],"Providers":["st"]}
+
+[LOG],2/3/2017,9:24 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":""}
+
+[LOG],2/3/2017,9:25 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"PCON","VAL":100}]},{"Outputs":["PDN","PCON"],"Providers":["st"]}
+
+[LOG],2/3/2017,9:25 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":""}
+
+[LOG],2/3/2017,9:50 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,9:50 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,9:50 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,9:50 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,9:52 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,9:52 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,9:52 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,9:52 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,9:53 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,9:53 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,9:53 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,9:53 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,9:54 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,9:54 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,9:54 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,9:54 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,9:59 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"PCON","VAL":100}]},{"Outputs":["UEF","PDN","PCON"],"Providers":["st"]}
+
+[LOG],2/3/2017,9:59 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":""}
+
+[LOG],2/3/2017,10:00 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,10:00 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:00 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:00 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,10:02 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,10:02 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:02 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:02 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,10:03 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,10:03 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:03 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:03 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,10:04 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,10:04 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:04 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:04 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,10:08 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,10:08 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:08 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:08 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,10:11 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,10:12 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:12 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:12 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,10:13 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,10:13 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:13 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:13 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,10:14 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,10:14 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:14 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:14 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,10:16 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,10:16 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:16 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:16 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,10:16 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,10:16 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:16 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:16 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,10:17 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,10:17 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:17 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:17 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,10:19 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,10:19 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:19 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:19 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,10:22 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"UCON","VAL":85},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:23 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:23 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"UCON","VAL":70},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:23 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:23 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"UCON","VAL":70},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":70},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:23 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:23 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"UCON","VAL":70},{"FLD":"AGCON","VAL":85},{"FLD":"PCON","VAL":70},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:23 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:25 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,10:25 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":4},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:25 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:25 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,10:25 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":4},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":85},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":0},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":4},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:25 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:26 AM,[INFO],[::1],{"InfoRequest":["all"]}
+
+[LOG],2/3/2017,10:26 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:26 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:26 AM,[VER],[::1],Version - WebService: WSA_5.0 11/16/16  API:10.0.0:2/2/17 14:52  Model:WSA.2.0.2
+
+[LOG],2/3/2017,10:27 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"},{"FLD":"UCON","VAL":100},{"FLD":"AGCON","VAL":100},{"FLD":"PCON","VAL":100},{"FLD":"ICON","VAL":100},{"FLD":"SWM","VAL":100},{"FLD":"GWM","VAL":100},{"FLD":"RECM","VAL":25},{"FLD":"POPGR","VAL":100},{"FLD":"ST","VAL":0},{"FLD":"STOPYR","VAL":"2065"}],"User":"WSA_UI: 23.5.2  "},{"Outputs":["all"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:27 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":"","USER":"WSA_UI: 23.5.2  "}
+
+[LOG],2/3/2017,10:47 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0},{"FLD":"PCON","VAL":100}]},{"Outputs":["UEF","PDN","ECOR"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:47 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Retreived)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":""}
+
+[LOG],2/3/2017,10:58 AM,[RUN->],[::1],{"Inputs":[{"FLD":"ST","VAL":0}]},{"Outputs":["UEF"],"Providers":["st"]}
+
+[LOG],2/3/2017,10:58 AM,[CREATED],[::1]
+
+[LOG],2/3/2017,10:58 AM,[RUN<-],[::1],"MODELSTATUS":{"STATUS":"SUCCESS","MESSAGE":"WebServ:(Created)","STARTYEAR":2015,"ENDYEAR":2065,"SCNNAME":""}
+

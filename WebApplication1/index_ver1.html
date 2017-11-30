@@ -1,0 +1,388 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+
+      <script src="Scripts/jquery-2.0.3.js" type="text/javascript"></script>
+      <script type="text/javascript" src="Scripts/WSimTools.js"></script>
+      <script type="text/javascript" src="Scripts/QGraph.js"></script>
+
+      <script type ="text/javascript">
+
+          var HTTPPrefix = "http://"
+          var RemoteServer = "webservtest.quayapps.com";
+          ISSPort = "14429";
+          var LocalServer = "localhost";
+
+          function GetServerString() {
+              var temp = "";
+              dochost = location.hostname;
+              if (dochost == RemoteServer) {
+                  temp = HTTPPrefix + RemoteServer;
+              }
+              else {
+                  temp = HTTPPrefix+LocalServer + ":" + ISSPort;
+              }
+              return temp;
+              
+          }
+          // Figure out What references these should be 
+
+
+          var UseServer = GetServerString();
+
+          WSVersion = UseServer + "/WaterSimDCDC.asmx/WaterSimVersion";
+          WSCreateTest = UseServer + "/WaterSimDCDC.asmx/TestWaterSimCreate";
+          WSRunModel = UseServer + "/WaterSimDCDC.asmx/RunWaterSim";
+          WSRunSimple = UseServer + "/WaterSimDCDC.asmx/RunWaterSim_Simple";
+          WSRunAllData = UseServer + "/WaterSimDCDC.asmx/RunWaterSim_AllData";
+          WSTestParam = UseServer + "/WaterSimDCDC.asmx/ParamTest";
+          WSGetDirectory = UseServer + "/WaterSimDCDC.asmx/GetCurrentDirectory";
+          WSFIELDCODE = "WS_";
+
+
+          //WSVersionRemote = "http://webservtest.quayapps.com/WaterSimDCDCModel.asmx/WaterSimVersion";
+          //WSRunSimpleRemote = "http://webservtest.quayapps.com/WaterSimDCDCModel.asmx/RunWaterSim_Simple";
+
+
+          // Version One
+          // Ray Quay
+          /*
+          function AjaxXMLToObject(TheAjaxXML) {
+              // Ok here is what is going on
+              // First, use JQuery to load the xml into a XMLDocument type
+              var xmlDoc = $.parseXML(TheAjaxXML);
+              // Now grab the first element/Node, which should be a <STRING></STRING> XML node
+              var StringNode = xmlDoc.documentElement;
+              // OK get just the content of the <STRING></STRING> XML node
+              var RealString = StringNode.textContent;  // Not that Stupid XML Coding!
+              // OK now I should have the JSON text description, use JSON to parse it
+              MyJSObject = JSON.parse(RealString);
+              // Viola! A Javascript object
+              return MyJSObject;
+              // It took me forever to figure this out, never could find a "solution" using google
+          }
+          */
+      </script>
+    <p>
+        Select Run Mode
+        <select id="RunMode">
+            <option value="1"> Run Model Once</option>
+            <option value="10"> Run Model 10 Times</option>
+            <option value="30"> Run Model 30 Times</option>
+        </select>
+    </p>
+    <p>
+                  <input type= "button" value="Test Ajax" id="MyButton" />
+             </p>
+                <ol id="List1">
+                    <li> Results</li>
+                </ol>
+                
+            
+                <script type="text/javascript">
+                    var mycnt = 0;
+                    function CallVersion() {
+                        mycnt++;
+                        $.ajax({
+                            type: "POST",
+                            url: WSVersion,// "http://localhost:64317/WaterSimDCDCModel.asmx/TestWaterSimCreate", //TestWaterSimCreate",
+                            //data: "",
+                            dataType: "text",
+                            success: function (data) {
+                                old = $('#List1').html();
+                                $("#List1").html(old + "<li> " + mycnt.toString()+" " + data + "</li>");
+                            },
+                            error: function (XMLHttpRequest, textStatus, errorThrown) {
+                                old = $('#List1').html();
+                                reshead = XMLHttpRequest.getAllResponseHeaders();
+                                var temp = "";
+                                $.each(reshead, function (index, item) {
+                                    temp = temp + ","+item.toString();
+                                });
+
+                                $("#List1").html(old + "<li> " + mycnt.toString() + " " + textStatus + " : " + errorThrown + " : "+temp+"</li>");
+                            }
+
+                        });
+                    }
+                    $('#MyButton').click(function (eventArgs) {
+                        // $('#para1').html("Calling AJAX");
+                       
+                        //alert("List " + old);
+                        var cnt = 0;
+                        var old = "";
+                        runmode = document.getElementById('RunMode').value;
+                        runmodevalue = parseInt(runmode);
+                        if (runmodevalue < 2) {
+                            CallVersion();
+                        }
+                        else {
+                            for (var timespan = 1000; timespan <= (runmodevalue * 1000) ; timespan = timespan + 1000) {
+
+                                setTimeout(function () {
+                                    CallVersion();
+                                }, timespan);
+                                cnt++;
+                            }
+                        }
+
+                    });
+                </script>
+                <h5>Next</h5>
+             <p> Model Start Year
+              <select id="WS_STOPYR_1" size="1">
+                  <option value="2040"> Year 2040</option>
+                  <option value="2050"> Year 2050</option>
+                  <option value="2060"> Year 2060</option>
+              </select>
+            <br />                 
+            <input type="button" value="Run Model" id="RunButton1" /><br />
+                 </p>
+            <ol id="Label2" >
+
+            </ol>
+           
+            <script>
+                var yrcnt = 0;
+                function RunModel1(mystopyr) {
+                    stpyr = mystopyr.v = mystopyr + yrcnt;
+                    var stpyr = parseInt(mystopyr);
+                    stpyr = stpyr + yrcnt;
+                    $.ajax({
+                        type: "POST",
+                        url: WSRunSimple,
+                        dataType: "text",
+                        data: { RunStopYear: stpyr.toString() },
+                    }).then(function (result) {
+                        var old = $("#Label2").html();
+                        $("#Label2").html(old+"<li>"+result+"</li>");
+                    });
+                    yrcnt++;
+                };
+
+                $('#RunButton1').click(function (eventArgs) {
+                    StopYear = document.getElementById('WS_STOPYR_1').value
+                    yrcnt = 0;
+                    runmode = document.getElementById('RunMode').value;
+                    runmodevalue = parseInt(runmode);
+                    if (runmodevalue < 2) {
+                        RunModel1(StopYear);
+                    }
+                    else {
+                        for (var timespan = 1000; timespan <= (runmodevalue * 1000) ; timespan = timespan + 1000) {
+
+                            setTimeout(function () {
+                                RunModel1(StopYear);
+                            }, timespan);
+
+                        }
+                    }
+
+                });
+                </script>
+    <div>
+        <table >
+            <tr>
+                <td> End Year</td>
+                <td> <select id="WS_STOPYR_2">
+                    <option value="2050">2050</option>
+                    <option value="2060">2060</option>
+                    <option value="2070">2070</option>
+                    <option value="2080">2080</option>
+                    </select></td>
+                <script type="text/javascript">
+                    var EndYearObject = new BaseInputField("STOPYR", 2050);
+                    function GetEndYearValue() {
+                        return document.getElementById("WS_STOPYR_2").value;
+                    };
+                    function SetEndYearValue(value) {
+                        document.getElementById("WS_STOPYR_2").value = value;
+                    }
+                    var EndYearControl = new WS_Control(document.getElementById("WS_STOPYR_2"), EndYearObject, GetEndYearValue, SetEndYearValue);
+                    WS_Controls.Add(EndYearControl);
+
+                </script>
+            </tr>
+            <tr>
+                <td> Provider</td>
+                <td> <select id="idProvider">
+                      <option value="all">All Providers</option>
+                      <option value="ch">Chandler</option>
+                      <option value="me">Mesa</option>
+                      <option value="ph">Phoenix</option>
+                      <option value="sc">Scottsdale</option>
+                      <option value="te">Tempe</option>
+                     </select>
+
+                </td>
+                    <script type="text/javascript">
+                        function GetProvider() {
+                            return document.getElementById("idProvider").value;
+                        }
+                </script>
+            
+            </tr>
+            <tr>
+                <td> Climate Adjustment for Colorado River</td>
+                <td> <select id="WS_COCLMADJ_1">
+                    <option value="100">No change in Base Scenario Flow due to Climate</option>
+                    <option value="90">90% of Base Scenario Flow, 10% reduction from Climate</option>
+                    <option value="80">80% of Base Scenario Flow, 20% reduction from Climate</option>
+                    <option value="70">70% of Base Scenario Flow, 30% reduction from Climate</option>
+                    <option value="60">60% of Base Scenario Flow, 40% reduction from Climate</option>
+                    <option value="50">50% of Base Scenario Flow, 50% reduction from Climate</option>
+                     </select></td>
+                <script type="text/javascript">
+                    var COCLMADJObject = new BaseInputField("COCLMADJ", 100);
+                    function GetClmAdjValue() {
+                        return document.getElementById("WS_COCLMADJ_1").value;
+                    };
+                    function SetClmAdjValue(value) {
+                        document.getElementById("WS_COCLMADJ_1").value = value;
+                    }
+                    var COCLMADJControl = new WS_Control(document.getElementById("WS_COCLMADJ_1"), COCLMADJObject,GetClmAdjValue,SetClmAdjValue);
+                    WS_Controls.Add(COCLMADJControl);
+
+                </script>
+            </tr>
+        </table>
+        <div>
+        <hr />
+        <input type="button" id="idRunFullModelButton" value="Run Model" /><br />
+        </div>
+        <table border="1">
+            <tr> <td> <h3> Graph of Colorado River FLow</h3> </td><td><h3>Graph of Salt Verde River FLow</h3></td> </tr> 
+            <tr> <td>   <canvas id="idCORFLOWGraph" height="250" width="450"  /></td><td>   <canvas id="idSVRFLOWGraph" height="250" width="450"  /></td></tr>
+        </table>
+
+            <script type="text/javascript">
+           var CORFLOWGraph = new LineGraph("idCORFLOWGraph", "Year", 0, "Flow (AF)", 1, "Colorado River Flow", "white", "cornsilk");
+           var SVRFLOWGraph = new LineGraph("idSVRFLOWGraph", "Year", 0, "Flow (AF)", 1, "Salt Verde River Flow", "white", "cornsilk");
+           
+         </script>
+
+
+            <hr />
+<div>
+        <article id="idFullResults">
+            Wither though article?
+        </article>
+    </div>
+        <script type="text/javascript">
+            function DrawCorFlow(TheModelOutput) {
+                if (TheModelOutput != null) {
+                    var CorFLowData = null;
+                    var MedStoreData = null;
+                    var SVRFlowData = null;
+                    var SVRStoreData = null;
+                    if (TheModelOutput.RESULTS != null) {
+                        var TheResultsArray = TheModelOutput.RESULTS;
+                        var count = TheResultsArray.length;
+                        for (var i = 0; i < TheResultsArray.length; i++) {
+                            if (TheResultsArray[i].FLD != null) {
+                                var fldname = TheResultsArray[i].FLD;
+                                if (fldname == "CORFLOW") {
+                                    if (TheResultsArray[i].VAL != null) {
+                                        CorFLowData = TheResultsArray[i].VAL;
+                                    }
+                                }
+                                else
+                                    if (fldname == "MEDSTORE") {
+                                        if (TheResultsArray[i].VAL != null) {
+                                            MedStoreData = TheResultsArray[i].VAL;
+                                        }
+                                    }
+                                    else
+                                        if (fldname == "SVRSTORE") {
+                                            if (TheResultsArray[i].VAL != null) {
+                                                SVRStoreData = TheResultsArray[i].VAL;
+                                            }
+                                        }
+                                        else
+                                            if (fldname == "SVRFLOW") {
+                                                if (TheResultsArray[i].VAL != null) {
+                                                   SVRFlowData = TheResultsArray[i].VAL;
+                                                }
+                                            }
+                            }
+                        } // for
+                        if (CorFLowData != null) {
+                            var StartYear = 0;
+                            var EndYear = 0;
+                            if (TheModelOutput.MODELSTATUS != null) {
+                                if ((TheModelOutput.MODELSTATUS.STARTYEAR != null) && (TheModelOutput.MODELSTATUS.ENDYEAR != null)) {
+                                    StartYear = TheModelOutput.MODELSTATUS.STARTYEAR;
+                                    EndYear = TheModelOutput.MODELSTATUS.ENDYEAR;
+                                    var Years = CorFLowData.length;
+                                    var YearArray = new Array(Years);
+                                    for (var i = 0; i < Years; i++) {
+                                        YearArray[i] = StartYear + i;
+                                    }
+                                    var YValues = new Array();
+                                    YValues[0] = CorFLowData;
+                                    YValues[1] = MedStoreData;
+                                    CORFLOWGraph.DrawGraph(YearArray, YValues, ["blue", "red"]);
+                                    var SVRYValues = new Array();
+                                    SVRYValues[0] = SVRFlowData;
+                                    SVRYValues[1] = SVRStoreData;
+                                     SVRFLOWGraph.DrawGraph(YearArray, SVRYValues, ["blue", "red"]);
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+
+            function RunFullModel() {
+                var TheModelOutput = null;
+                var Inputs = GetInputFieldObject();
+                var InputsStr = JSON.stringify(Inputs);
+                var Outputs = { Outputs: ["COCLMADJ", "CORFLOW", "SVRFLOW", "MGWPUMP", "POPUSED", "TOTDEM", "MEDSTORE","SVRSTORE"], Providers: ["ph", "sc"] };
+                var OutPutsStr = JSON.stringify(Outputs);
+                $.ajax({
+                    type: "POST",
+                    url: WSRunModel,
+                    data:{ inputJsonArray:InputsStr, outputJsonArray:OutPutsStr},// '{"Outputs":["COCLMADJ","CORFLOW","SVRFLOW","MGWPUMP","POPUSED","TOTDEM"],"Providers":["ph","sc"]}"',
+                    dataType: "text",
+                    success: function (data) {
+                        TheModelOutput = AjaxXMLToObject(data);
+                        $("#idFullResults").html(data);
+                        DrawCorFlow(TheModelOutput);
+                    },
+                    error: function (XMLHttpRequest, textStatus, errorThrown) {
+                        reshead = XMLHttpRequest.getAllResponseHeaders();
+                        var temp = "";
+                        $.each(reshead, function (index, item) {
+                            temp = temp + "," + item.toString();
+                        });
+                        $("#idFullResults").html("AJAX Error : "+temp);
+
+                       // $("#List1").html(old + "<li> " + mycnt.toString() + " " + textStatus + " : " + errorThrown + " : " + temp + "</li>");
+                    }
+
+                });
+            }
+
+        $('#idRunFullModelButton').click(function (eventArgs) {
+            RunFullModel();
+        });
+
+        function drawCanvas() {
+            var MyData = new Array();
+            MyData[0] = [10, 15, 25, 40, 45, 30, 20, 25, 35, 40, 50];
+            MyData[1] = [20, 25, 35, 50, 55, 40, 30, 35, 45, 50, 60];
+            if (MyGraph.DrawGraph) {
+                // MyGraph.DrawGraph([2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010], [10, 15, 25, 40, 45, 30, 20, 25, 35, 40, 50], "red");
+                MyGraph.DrawGraph([2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010], MyData, ["red", "green"]);
+            }
+        }
+        </script>
+
+    </div>
+
+
+</body>
+</html>

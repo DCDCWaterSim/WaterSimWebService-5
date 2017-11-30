@@ -1,0 +1,11 @@
+{FIELDNAME: "COCLMADJ"} {UNIT:"%"} {LONGUNIT:"% of that forecasted"}{WEBLABEL:"Alter Historical Flows- Colorado"} {WEBSCALE:["0", "25", "50", "75", "100","125"]} {WEBSCALEVALUES:["0", "25", "50", "75", "100","125"]}
+{FIELDNAME: "DROUSCEN"} {UNIT:"Unitless"} {LONGUNIT:"% of that forecasted"}{WEBLABEL:"Drought Scenarios"}{WEBSCALE:["None","Dry","Moderate", "Extreme"]} {WEBSCALEVALUES:["0", "1", "2", "3"]}
+{FIELDNAME: "ENFLOPCT"} {UNIT:"% of AZ Share"} {LONGUNIT:"% of water that can be allocated to environment"} {WEBLABEL:"Water For the CO Delta"} {WEBSCALE:["0", "25", "50", "75", "100"]} {WEBSCALEVALUES:["0", "25", "50", "75", "100"]}
+{FIELDNAME: "REGRECEFF"}{UNIT:"%"} {LONGUNIT:"% of Wastewater Reclaimed"} {WEBLABEL:"Wastewater Reclaimed"}{WEBSCALE:["0", "25", "50", "75", "100"]} {WEBSCALEVALUES:["0", "25", "50", "75", "100"]}
+{FIELDNAME: "SVCLMADJ"} {UNIT:"%"} {LONGUNIT:"% of that forecasted"}{WEBLABEL:"Alter Historical Flows- Salt-Verde"} {WEBSCALE:["0", "25", "50", "75", "100","125"]} {WEBSCALEVALUES:["0", "25", "50", "75", "100", "125"]}
+{FIELDNAME: "WEBAGTR1"} {UNIT:"%"}{DEP:["WEBAGEFF"]} {LONGUNIT:"Small instream flows"} {WEBLABEL:"Farm Water Used by Cities"}{WEBSCALE:["0", "25", "50", "75", "100"]} {WEBSCALEVALUES:["0", "25", "50", "75", "100"]}
+{FIELDNAME: "WEBAGEFF"} {UNIT:"%"} {LONGUNIT:"Percent"} {WEBLABEL:"Agricultural Efficiency"}{WEBSCALE:["100", "150", "200", "250", "300"]} {WEBSCALEVALUES:["100", "150", "200","250", "300"]}
+{FIELDNAME: "WEBPOPGR"} {UNIT:"% of Forecasted"} {LONGUNIT:"People"} {WEBLABEL:"Population Growth"}{WEBSCALE:["0", "50", "100","125", "150"] } {WEBSCALEVALUES:[ "0", "50", "100","125", "150"]}
+{FIELDNAME: "WEBPRPCT"} {UNIT:"% of Forecasted"} {LONGUNIT:"Percent"} {WEBLABEL:"Per Capita Water Use"}{WEBSCALE:["20", "40", "60", "80", "100"]} {WEBSCALEVALUES:["20", "40", "60", "80", "100"]}
+{FIELDNAME: "SCENARIO"} {UNIT:"Unitless"} {LONGUNIT:"Unitless"} {WEBLABEL:"Pre-set Scenarios"}{WEBSCALE:["None", "Tech Mgt", "Water Security", "Sustainability", "Demand Mgt"]} {WEBSCALEVALUES:["0", "1", "2", "3", "4"]}
+{FIELDNAME: "WEBOUTDOOR"} {UNIT:"%"} {LONGUNIT:"Percent"} {WEBLABEL:"Outdoor Water Use (% of initial)"}{WEBSCALE:["60","70", "80", "90", "100"]} {WEBSCALEVALUES:["60", "70", "80","90", "100"]}

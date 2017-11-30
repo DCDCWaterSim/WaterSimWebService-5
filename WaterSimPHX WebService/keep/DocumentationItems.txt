@@ -1,0 +1,8 @@
+{FIELDNAME: "COCLMADJ"} {UNIT:"%"} {LONGUNIT:"% of that forecasted"}{WEBLABEL:"Historical Flows"} {WEBSCALE:["0", "25", "50", "75", "100"]} {WEBSCALEVALUES:["0", "25", "50", "75", "100", "125"]}
+{FIELDNAME: "DROUSCEN"} {UNIT:"%"} {LONGUNIT:"% of that forecasted"}{WEBLABEL:"Drought Scenarios"}{WEBSCALE:["None","Dry","Moderate", "Extreme"]} {WEBSCALEVALUES:["0", "1", "2", "3"]}
+{FIELDNAME: "ENFLOPCT"} {UNIT:"% of AZ's Share"} {LONGUNIT:"% of water that can be allocated to environment"} {WEBLABEL:"Water For the CO Delta"} {WEBSCALE:["0", "25", "50", "75", "100"]} {WEBSCALEVALUES:["0", "25", "50", "75", "100"]}
+{FIELDNAME: "REGRECEFF"}{UNIT:"%"} {LONGUNIT:"% of Wastewater Reclaimed"} {WEBLABEL:"Wastewater Reclaimed"}{WEBSCALE:["0", "25", "50", "75", "100"]} {WEBSCALEVALUES:["0", "25", "50", "75", "100"]}
+{FIELDNAME: "SVCLMADJ"} {UNIT:"%"} {LONGUNIT:"% of that forecasted"}{WEBLABEL:"Historical Flows"} {WEBSCALE:["0", "25", "50", "75", "100"]} {WEBSCALEVALUES:["0", "25", "50", "75", "100", "125"]}
+{FIELDNAME: "WEBAGTR1"} {UNIT:"%"} {LONGUNIT:"Small instream flows"} {WEBLABEL:"Farm Water Used by Cities"}{WEBSCALE:["0", "25", "50", "75", "100"]} {WEBSCALEVALUES:["0", "25", "50", "75", "100"]}
+{FIELDNAME: "WEBPOPGR"} {UNIT:"% of Forecasted"} {LONGUNIT:"People"} {WEBLABEL:"Population Growth"}{WEBSCALE:["0", "50", "100","125", "150"] } {WEBSCALEVALUES:[ "0", "50", "100","125", "150"]}
+{FIELDNAME: "WEBPRPCT"} {UNIT:"% of Forecasted"} {LONGUNIT:"Percent"} {WEBLABEL:"Per Capita Water Use"}{WEBSCALE:["0", "25", "50", "75", "100"]} {WEBSCALEVALUES:["0", "25", "50", "75", "100"]}
